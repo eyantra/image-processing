@@ -1,5 +1,3 @@
-# HacktoberFest e-Yantra
-
 ---
 ![e-Yantra](logo.png "e-Yantra")
 ---
@@ -10,11 +8,3 @@ This repository is for image processing. You will find two scripts. One is color
 
 ## How to contribute to this project
 Fork this repository and get started. Follow the objective of this project in order to complete it. A basic code template is given to help you get started. You are free to edit the code however you like. You must add comments wherever necessary.
-
-## Rules
-1. Detection of both scripts should only be done on video input of webcam.
-2. Display the output of the image processing on the screen.
-3. You must add comments in your code. File level, function level and line level comments are expected wherever necessary
-
-## Winner
-First PR that follows the given rules and completes the given task, is declared the winner at e-Yantra's discretion
